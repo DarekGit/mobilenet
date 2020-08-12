@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) Youngwan Lee (ETRI) All Rights Reserved.
 # Modified by DDzialkowski 2020, norm choice added
 
 from detectron2.config import CfgNode as CN
