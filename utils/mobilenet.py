@@ -1,5 +1,3 @@
-# taken from https://github.com/tonylins/pytorch-mobilenet-v2/
-# Published by Ji Lin, tonylins
 # modified by DDzialkowski, 2020 norm choice added, used get_norm
 # licensed under the  Apache License, Version 2.0, January 2004
 
